@@ -1,3 +1,5 @@
+//Всё будет хорошо
+
 package org.example.my;
 
 public class Person extends BaseEntity{
