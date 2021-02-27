@@ -1,7 +1,17 @@
 //Всё будет хорошо
 //********************************
+//Всё будет хорошо
+//********************************
 
-package org.example.my;
+1
+//Всё будет хорошо
+//********************************
+
+1
+//Всё будет хорошо
+//********************************
+
+1
 
 public class Person extends BaseEntity{
     private String firtsName;
@@ -10,26 +20,27 @@ public class Person extends BaseEntity{
     public Person() {
     }
 
-    public Person(String firtsName, String lastName) {
+    public Person(String firtdfgfggdfgsName, String lastNdfgdame) {
+        fghfhfhfghf
         this.firtsName = firtsName;
         this.lastName = lastName;
     }
 
+    fghfghfhfghfhfgfh
     public Person(Long id, String firtsName, String lastName) {
         super(id);
         this.firtsName = firtsName;
         this.lastName = lastName;
     }
 
-    public String getFirtsName() {
-        return firtsName;
-    }
 
     public void setFirtsName(String firtsName) {
         this.firtsName = firtsName;
     }
-
-    public String getLastName() {
+  public void setFirtsName(String firtsName) {
+        this.firtsName = firtsName;
+    }
+    public Sttttttttttring getLastName() {
         return lastName;
     }
 
