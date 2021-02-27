@@ -7,18 +7,11 @@
 //Всё будет хорошо
 //********************************
 
-1
-//Всё будет хорошо
-//********************************
-
-1
 
 public class Person extends BaseEntity{
     private String firtsName;
     private String lastName;
 
-    public Person() {
-    }
 
     public Person(String firtdfgfggdfgsName, String lastNdfgdame) {
         fghfhfhfghf
@@ -26,9 +19,10 @@ public class Person extends BaseEntity{
         this.lastName = lastName;
     }
 
-    fghfghfhfghfhfgfh
-    public Person(Long id, String firtsName, String lastName) {
-        super(id);
+   
+   
+                    public Person(Long id, String firtsName, String lastName) {
+        super(id);7 sd
         this.firtsName = firtsName;
         this.lastName = lastName;
     }
