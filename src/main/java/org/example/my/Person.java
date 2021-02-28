@@ -8,17 +8,19 @@
 //********************************
 
 
-public class Person extends BaseEntity{
+public class Person3 extends BaseEntity{
     private String firtsName;
     private String lastName;
 
 
-    public Person(String firtdfgfggdfgsName, String lastNdfgdame) {
+    public Person3(String firtdfgfggdfgsName, String lastNdfgdame) {
         fghfhfhfghf
         this.firtsName = firtsName;
         this.lastName = lastName;
     }
-
+333333333333333333333333333
+    33333333333333333333333333333
+    333333333333333333333333
    
    
                     public Person(Long id, String firtsName, String lastName) {
@@ -41,4 +43,5 @@ public class Person extends BaseEntity{
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
-}
+}333333333333333333
+    33333333333333333333333333333
